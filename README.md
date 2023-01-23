@@ -36,8 +36,6 @@ In the Upload page I created a space where we can upload pdf files and send them
 Once the file is converted, it can be directaly downloaded by the user. 
 
 
-
-
 ## Things I want to improve in the future
 I want to add the WaveNet voice to make the experience of listing to the file more realistic. I want also to change the voice speed setting to make the reader reads slowly. 
 
